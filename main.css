@@ -43,21 +43,21 @@ h1{
 .namecard{
     width: 150px;
     height: 150px;
-    background: url(/PrintOrder/image/namecard_icon.png) no-repeat;
+    background: url(/printorder/image/namecard_icon.png) no-repeat;
     background-position: 80% center;
     background-size: contain;
 }
 .post{
     width: 150px;
     height: 150px;
-    background: url(/PrintOrder/image/post_icon.png) no-repeat;
+    background: url(/printorder/image/post_icon.png) no-repeat;
     background-position: 80% center;
     background-size: contain;
 }
 .envelope{
     width: 150px;
     height: 150px;
-    background: url(/PrintOrder/image/envelope_icon.png) no-repeat;
+    background: url(/printorder/image/envelope_icon.png) no-repeat;
     background-position: 80% center;
     background-size: contain;
 }
